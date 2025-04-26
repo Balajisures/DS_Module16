@@ -1,5 +1,5 @@
 # Ex18 B-Tree
-## DATE: 09-04-2025
+## DATE: 26-04-2025
 ## AIM:
 To write a C function to delete an element in a B Tree.
 ## Algorithm
@@ -16,8 +16,8 @@ To write a C function to delete an element in a B Tree.
 ```
 /*
 Program to write a C function to delete an element in a B Tree
-Developed by: Shanmuga Raj.K
-RegisterNumber: 212223040192
+Developed by: BALAJI S
+RegisterNumber: 212223040024
 
 struct BTreeNode{
 int item[MAX+1], count;
